@@ -1,6 +1,7 @@
 {
   "name": "netlify-shortener-example",
   "version": "1.0.0",
+  "baseUrl": "https://ajdw-short-url.netlify.com",
   "main": "index.js",
   "scripts": {
   "shorten" : "netlify-shortener"
