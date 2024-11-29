@@ -1,9 +1,9 @@
-/git  https://github.com/AngeJdW
-/youtube  https://www.youtube.com
-/torquay https://www.torquayslsc.com.au
-/geelongfc https://www.geelongcats.com.au
-/rugby https://wallabies.rugby
-/cricket https://www.cricket.com.au
-/edit https://github.com/AngeJdW/netlify-shortener-example/edit/main/_redirects
+/git         https://github.com/AngeJdW
+/youtube     https://www.youtube.com
+/torquay     https://www.torquayslsc.com.au
+/geelongfc   https://www.geelongcats.com.au
+/rugby       https://wallabies.rugby
+/cricket     https://www.cricket.com.au
+/edit        https://github.com/AngeJdW/netlify-shortener-example/edit/main/_redirects
 
-/*  https://google.com
+/*           https://google.com
