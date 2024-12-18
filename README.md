@@ -1,3 +1,7 @@
+# Purpose of this repository
+The purpose of this repository is to store the code required to run the URL Shortener application. 
+
+# About this application
 This application uses the _redirects file within netlify to creeate a URL Shortener. 
 Each line in th _redirects file has a "/<shortname> <URL>"
 When using Github, updating this document will update the _redirects file which is used for** ajdw-short-url.netlify.app/<shortname> 
